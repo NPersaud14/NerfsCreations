@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @NerfNotFound
-- 👀 I’m interested in, well, coding... I create a lot of games on a game called Core, but I also enjoy making games in Unreal Engine.
-- 🌱 I’m currently learning how to code in more languages.
-- 📫 How to reach me ... Don't, please don't.
-- 💬 I know JSON(if you consider it a language), a little bit of C, I specialize in Lua, and currently learning Python. Can't forget Java and JavaScript
+- 👋 Hi, I’m @NPersaud14
+- 👀 I’m interested in, well, coding... I used to make lots of games; however, I've recently shifted towards Artificial Intelligence and Robotics.
+- 🌱 I’m currently learning how to teach people Java.
+- 📫 How to reach me ... Don't, please don't. If you know me you know how to contact me.
+- 💬 JSON, C#, Java/Kotlin, Python, Lua, Javascript, SQL
+
